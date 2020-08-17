@@ -361,6 +361,7 @@ For documentation on the latest development code see the [documentation index][d
 
 * [clone](/plugins/processors/clone)
 * [converter](/plugins/processors/converter)
+* [multiplier](./plugins/processors/multiplier)
 * [date](/plugins/processors/date)
 * [dedup](/plugins/processors/dedup)
 * [enum](/plugins/processors/enum)
